@@ -1,7 +1,29 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Hello There!
 
-![Image of fast.ai logo](images/logo.png)
+Welcome to my little corner of the internet!
+I've recently decided to start blogging as a means of self introspection.This page will soon be replaced by my personal website :)
+Meanwhile, check out some of my projects below, some of which, being toy projects, are hosted on codepen.
 
-## This is a title
+[Faze](/) | Materialize, jQuery, Pytorch/fastai, Uvicorn, Starlette
+- A web app for enhancing blurry or low resolution images of people with deep learning.
+- Used a custom trained model (GAN) optimized for humans, ensuring boost in quality relative to other approaches.\
+**Note**: This was pulled down after I ran out of credits :( \
+However, I'm working on an optimized model and plan on rolling it out next week!
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file.
+[Micro Enterprise - Club Page](https://micro-tech.herokuapp.com/) | Materialize, jQuery, PHP, MySQL
+- Website with a multi-tier invite system built for a university club.
+- Managed a team of 4 and assigned roles.
+- Made and consumed a REST API to query, validate and add to database of members.
+
+[Connect Four](https://codepen.io/likhit/full/QWwZLvG) | Bootstrap, React
+- A connect four game with a rewindable history of moves.
+- Built to reinforce key React concepts like components and state.
+
+[Ramanujan - A Tribute](https://cdpn.io/likhit/full/mdywoqB/) | HTML/CSS/JS
+- A minimalist, responsive website built to commemorate Srinivasa Ramanujan, a renowned
+  mathematician.
+- Photo colorized on hover with a GAN-based approach.
+
+[Gana - Landing Page](https://codepen.io/likhit/full/mdyqrPM) | Bootstrap, jQuery
+- A beautiful, responsive landing page built with Bootstrap and JQuery.
+- Final product in development - a music generator for custom lyrics.
