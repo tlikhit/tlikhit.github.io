@@ -1,8 +1,8 @@
 # Intro
 
 Welcome to my little corner of the internet!
-I've recently decided to start blogging as a means of self introspection.
-Check out some of my projects below, including some toy projects hosted on codepen.
+I've recently decided to start blogging as a means of self introspection. Interesting post coming up!
+Meanwhile, check out some of my projects below, including some toy projects hosted on codepen.
 
 [Faze](/) | Materialize, jQuery, Pytorch/fastai, Uvicorn, Starlette
 - A web app for enhancing blurry or low resolution images of people with deep learning.
