@@ -1,14 +1,14 @@
 # Intro
 
 Welcome to my little corner of the internet!
-I've recently decided to start blogging as a means of self introspection. Interesting post coming up!
+I've recently decided to start blogging as a means of self introspection. Interesting posts coming up!
 Meanwhile, check out some of my projects below, including some toy projects hosted on codepen.
 
 [Faze](/) | Materialize, jQuery, Pytorch/fastai, Uvicorn, Starlette
 - A web app for enhancing blurry or low resolution images of people with deep learning.
 - Used a custom trained model (GAN) optimized for humans, ensuring boost in quality relative to other approaches.
-**Note**: This was pulled down after I ran out of credits :(
-However, I'm actively working on an optimized model and plan on rolling it out in the next few weeks!
+- **Note**: This was pulled down after I ran out of credits 😅
+  However, I'm actively working on an optimized model and plan on rolling it out in the next few weeks!
 
 [Micro Enterprise - Club Page](https://micro-tech.herokuapp.com/) | Materialize, jQuery, PHP, MySQL
 - Website with a multi-tier invite system built for a university club.
