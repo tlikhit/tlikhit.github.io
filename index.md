@@ -15,7 +15,7 @@ Meanwhile, check out some of my projects below, including some toy projects host
 - Managed a team of 4 and assigned roles.
 - Made and consumed a REST API to query, validate and add to database of members.
 
-[Connect Four](https://codepen.io/likhit/full/QWwZLvG) | Bootstrap, React
+[Connect Four](https://codepen.io/likhit/pen/LYEgZWE) | Bootstrap, React
 - A connect four game with a rewindable history of moves.
 - Built to reinforce key React concepts like components and state.
 
