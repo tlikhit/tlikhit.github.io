@@ -16,8 +16,7 @@ Meanwhile, check out some of my projects below, including some toy projects host
 - Made and consumed a REST API to query, validate and add to database of members.
 
 [Connect Four](https://codepen.io/likhit/pen/LYEgZWE) | Bootstrap, React
-- A connect four game with a rewindable history of moves.
-- Built to reinforce key React concepts like components and state.
+- A connect four game built to reinforce core React concepts like components and state.
 
 [Ramanujan - A Tribute](https://cdpn.io/likhit/full/mdywoqB/) | HTML/CSS/JS
 - A minimalist, responsive website built to commemorate Srinivasa Ramanujan, a renowned
