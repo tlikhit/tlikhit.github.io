@@ -1,4 +1,4 @@
-# 
+# Intro
 
 Welcome to my little corner of the internet!
 I've recently decided to start blogging as a means of self introspection.
