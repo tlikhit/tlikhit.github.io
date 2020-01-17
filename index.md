@@ -1,7 +1,7 @@
 # 
 
 Welcome to my little corner of the internet!
-I've recently decided to start blogging as a means of self introspection.\
+I've recently decided to start blogging as a means of self introspection.
 Check out some of my projects below, including some toy projects hosted on codepen.
 
 [Faze](/) | Materialize, jQuery, Pytorch/fastai, Uvicorn, Starlette
