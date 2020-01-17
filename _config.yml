@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: ☕☕ and 🍪	
+title: 🍪	
 description: Personal Site under Construction! ❤
 github_username: tlikhit
 
@@ -23,7 +23,7 @@ plugins:
   - jekyll-feed
 
 titles_from_headings:
-  enabled:     false
+  enabled:     true
   strip_title: true
   collections: true
 
